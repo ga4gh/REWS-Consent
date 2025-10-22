@@ -6,6 +6,8 @@ This policy provides guidelines for the international sharing of genomic and rel
 
 The Consent Policy encompasses data that have been consented to by data donors or their legal representatives, or approved for use by competent authorities in compliance with national and international laws, general ethical principles, and best practices that respect restrictions on downstream uses. This includes recognition that the consent process is situated within and overseen by appropriate governance mechanisms.
 
+<img width="3125" height="2458" alt="consent-policy-principles" src="https://github.com/user-attachments/assets/cde4b85d-e776-4dea-ae60-db32c697bab7" />
+
 This policy is founded on the following basic principles:
 
 - consent is an open, communicative and, ideally, continuing relationship;
